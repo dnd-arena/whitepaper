@@ -40,7 +40,7 @@ To revolutionize gaming by integrating blockchain technology, enabling players t
 ## Core Features
 ### Character Creation
 - Each user is granted one free character generation upon registration.
-- Additional character generations cost **30,000 $DND** per character.
+- Additional character generations cost **10,000 $DND** per character.
 
 ### Arenas and Battle Mechanics
 - Battle outcomes determined by character stats and future item stats and skills.
