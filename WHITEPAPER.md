@@ -46,11 +46,11 @@ To revolutionize gaming by integrating blockchain technology, enabling players t
 - Battle outcomes determined by character stats and future item stats and skills.
 - Dice-roll mechanics influence combat outcomes for strategy and unpredictability.
 
-### NFT-Based Items
+### NFT-Based Items (soon)
 - All items (weapons, armor, accessories) represented as NFTs.
 - Daily random drops of ~10 exclusive items with superior stats.
 
-### Daily Random Drops
+### Daily Random Drops (soon)
 - ~10 exclusive items drop randomly each day.
 - Enhanced stats compared to regular shop items.
 
@@ -72,12 +72,12 @@ To revolutionize gaming by integrating blockchain technology, enabling players t
 - Battles based on character and future item stats/skills.
 - Dice-roll mechanics add unpredictability and strategy.
 
-### Customization and Strategy
+### Customization and Strategy 
 - Customize loadouts with NFT gear.
 - Strategic planning is key to victory.
 
 ## Marketplace and Economy
-### NFT Marketplace
+### NFT Marketplace (soon)
 - Buy, sell, and trade NFTs.
 - Transaction fees reinvested into the ecosystem.
 
