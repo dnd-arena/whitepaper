@@ -121,7 +121,7 @@ To revolutionize gaming by integrating blockchain technology, enabling players t
 
 ## Contracts
 ### Base Chain
-- **DNDArena**: `0xd6655e23012FB336387D16b089B3aAd0988e3080`  
+- **DNDArena**: `0x6b7C1C0c7364A00bF9e540d4C2AF7305F98D6947`  
   Manages arenas and determines winners, ensuring transparency.
 
 - **CharacterGenerationManager**: `0x4E24D0a7f1457eAEfAD308100649A4dD179642e4`  
