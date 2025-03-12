@@ -129,3 +129,7 @@ To revolutionize gaming by integrating blockchain technology, enabling players t
 
 ### GitHub Contracts
 - [DNDArena Contracts](https://github.com/dnd-arena/contracts)
+
+### Links
+- [Join Arena](https://t.me/VirtualDndArenaBot)
+- [Join Community](https://t.me/dndArenaCommunity)
