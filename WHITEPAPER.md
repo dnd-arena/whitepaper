@@ -61,11 +61,6 @@ To revolutionize gaming by integrating blockchain technology, enabling players t
 ## Tokenomics
 ### $DND Token
 - **Total Supply**: 1,000,000,000 $DND
-- **Allocation**:
-  - 94% Public Sale
-  - 5% Arena activity
-  - 1% (0.5% staking incentives, 0.5% marketing & development)
-  - 10k $DND from new character generation for marketing & development
 
 ## Game Mechanics
 ### Arenas and Battle Mechanics
